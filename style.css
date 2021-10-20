@@ -1,0 +1,254 @@
+body {
+ font-family:'Ubuntu', arial, serif; 
+ font-size:20px;
+ /*background:#424242;*/
+ background:#737373;
+ }
+ 
+ .login
+ {
+	position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 500px;
+	height: 200px;
+	min-height:inherit;
+	max-height:200px;
+    margin-top: -100px;
+    margin-left: -250px; 
+	/*overflow: auto;*/
+	background:#FFF;
+	text-align:center;
+	 
+ }
+ 
+ .login2
+ {
+	position: 	absolute;
+    left: 50%;
+	top: 50%;
+    width: 500px;
+	height: 50px;
+	min-height:inherit;
+	max-height:200px;
+    margin-top: -100px;
+    margin-left: -250px; 
+	/*overflow: auto;*/
+	/*background:#999;*/
+	background:#EFECE7;
+	text-align:center;
+	font-size:14px
+		 
+ }
+ .label1
+ {
+	/*color:#FFF;*/
+	color:#000;
+	font-family:'Ubuntu', arial, serif; 
+	font-size:16px; 
+ }
+ 
+  .label2
+ {
+	color:#000;
+	font-family:'Ubuntu', arial, serif; 
+	font-size:16px; 
+	margin-right:10px;
+ }
+ 
+ .textbox 
+ { 
+    background: #FFF; 
+    border: 1px solid #000; 
+    outline:0; 
+    height:20px; 
+    width: 250px; 
+  } 
+  
+  .tdlogin1
+  {
+	  width:160px;
+	  text-align:right;	  
+  }
+  
+.btningresar
+{	  
+    border-radius: 6px 6px 6px 6px;
+	left: 50%;
+	height:36px;
+	width:100px;
+	margin-left:20%;
+	margin-right: 50px; 
+	overflow: auto;
+}
+
+.logo
+{
+	position: absolute;
+    left: 50%;
+    top: 25%;
+    width: 258px;
+	height: 50px;
+	min-height:inherit;
+	max-height:200px;
+    /*margin-top: -100px;*/
+    margin-left: -129px; 
+	overflow: auto;
+	background:#FFF;
+	text-align:center;
+	/*background:#424242;  */
+	 background:#737373;
+}
+
+.cabecera
+{
+	width: 100%;
+	height: 53px;
+	background:#EFECE7;
+	position: absolute;
+	top: -1px;
+	margin-left: 0%;
+	left: 0px;
+	font-size:12px;	
+}
+ 
+ 
+.titulo
+{
+	text-align:center;
+	/*background-color:#424242;*/
+	background-color:#737373;
+	position:absolute;	
+	left: 50%;
+    top: 15%;	
+	width: 500px;
+	margin-left: -250px;
+	font-family:'Ubuntu', arial, serif;
+	color:#FFF;
+	font-size:34px; 
+}
+
+.cuerpo
+{
+	text-align:center;
+	/*background-color:#424242;*/
+	background-color:#737373;
+	position:absolute;	
+	left: 50%;
+    top: 25%;	
+	width: 900px;
+	margin-left: -450px;
+	font-family:'Ubuntu', arial, serif;
+	color:#FFF;
+	font-size:14px; 
+}
+ 
+ 
+ .cuerpo2
+{
+	text-align:center;
+	background-color:#FFF;
+	position:absolute;	
+	left: 50%;
+    top: 25%;	
+	width: 900px;
+	margin-left: -450px;
+	font-family:'Ubuntu', arial, serif;
+	color:#FFF;
+	font-size:14px; 
+}
+
+
+.filtros
+{
+	text-align:center;
+	background-color:#FFF;
+	position:absolute;	
+	left: 50%;
+    top: 50%;	
+	width: 900px;
+	height:250px;
+	margin-left: -450px;
+	font-family:'Ubuntu', arial, serif;
+	font-style:inherit; 	
+}
+
+.desdehasta
+{
+	text-align:left;	
+}
+
+.selectdesdehasta
+{
+	text-align:right;		
+}
+
+.tabla1
+{
+	font-size:22px; 
+	color:#FFF;
+	border:0;
+	width:100%;
+	text-align:center;	
+}
+
+.btnbuscar
+{
+	border-radius: 6px 6px 6px 6px;
+	height:36px;
+	width:100px;		
+}
+
+
+
+.opciones
+{	
+	position: 	absolute;
+	left: 50%;
+	top: 45%;
+	width: 500px;
+	/*height: 200px;*/
+	min-height:inherit;
+	max-height:300px;
+	margin-top: -100px;
+	margin-left: -250px; 
+	overflow: auto;
+	
+	
+	/* esto solo en el caso de que ocupe gruilla, de no ser asi se debe comentar*/
+					
+	background:#EFECE7;
+	color:#424242;
+	font-family:'Ubuntu', arial, serif;
+	 
+			
+}
+
+.opciones2
+{	
+	position: 	absolute;
+	left: 50%;
+	top: 72%;
+	width: 500px;
+	/*height: 200px;*/
+	min-height:inherit;
+	max-height:300px;
+	margin-top: -100px;
+	margin-left: -250px; 
+	overflow: auto;
+	
+	
+	/* esto solo en el caso de que ocupe gruilla, de no ser asi se debe comentar*/
+					
+	background:#EFECE7;
+	color:#424242;
+	font-family:'Ubuntu', arial, serif;
+	 
+			
+}
+
+.grilla
+{
+	width:100%;
+	text-align:center;
+}
